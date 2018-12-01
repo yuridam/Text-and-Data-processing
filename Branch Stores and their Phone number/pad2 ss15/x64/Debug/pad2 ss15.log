@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  pad2 ss15.cpp
+  Store.cpp
+d:\pad 2 projects\pad2 ss15\pad2 ss15\store.cpp(166): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  pad2 ss15.vcxproj -> D:\pad 2 projects\pad2 ss15\x64\Debug\pad2 ss15.exe
